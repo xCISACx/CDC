@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.sass-cache",
     "\\css",
-    "\\Fotos"
+    "\\fonts",
+    "\\fonts\\flaticon",
+    "\\fonts\\flaticon\\font",
+    "\\Fotos",
+    "\\Fotos\\Logos",
+    "\\js"
   ],
-  "SelectedNode": "\\css\\animate.css",
+  "SelectedNode": "\\Fotos\\Logos",
   "PreviewInSolutionExplorer": false
 }
