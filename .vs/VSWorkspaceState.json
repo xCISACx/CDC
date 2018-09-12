@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\luto",
-    "\\luto\\css"
+    "\\luto\\css",
+    "\\luto\\Fotos\\Logos",
+    "\\luto\\js"
   ],
-  "SelectedNode": "\\luto\\css\\flexslider.css",
+  "SelectedNode": "\\luto\\js\\google_map.js",
   "PreviewInSolutionExplorer": false
 }
