@@ -1247,8 +1247,8 @@ header {
   margin-bottom: 4em; }
 
 .col-pb-sm {
-  margin-bottom: 5em !important; }
-  .col-pb-sm:last-child {
+ margin-bottom: 5em !important;}
+.col-pb-sm:last-child {
     margin-bottom: 0; }
 
 .btn.with-arrow {
@@ -1496,6 +1496,7 @@ input[type="text"] {
     @media screen and (max-width: 768px) {
       #footer .instagram .insta-img {
         height: 200px; } }
+
 
 .js .animate-box {
   opacity: 0; }
